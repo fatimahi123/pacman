@@ -166,6 +166,7 @@ public class pacman {
                     System.out.print(board.getcell(r, c));
                 }
             }
+            System.out.println();
         }
     }
 }
